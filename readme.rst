@@ -83,20 +83,29 @@ The solver reads ``.bff`` (Board File Format) files with these components:
 
 1. **Grid**
    * Enclosed between ``GRID START`` and ``GRID STOP``
+
    * ``o``: Available position
+
    * ``x``: Forbidden position
+   
    * ``A/B/C``: Fixed reflect/opaque/refract blocks
 
 2. **Block Requirements**
+
    * ``[Block Type] [Quantity]``
+
    * Types: A (reflect), B (opaque), C (refract)
 
 3. **Laser Configuration**
+
    * ``L [x] [y] [vx] [vy]``
+
    * (x,y): position, (vx,vy): direction
 
 4. **Target Points**
+
    * ``P [x] [y]``
+
    * Coordinates where laser must intersect
 
 Example .bff File (tiny_5.bff)
@@ -132,6 +141,7 @@ Usage
 
 Output:
 * 1. Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
+
 * 2. Execution time displayed for each puzzle
 
 Output and Performance
