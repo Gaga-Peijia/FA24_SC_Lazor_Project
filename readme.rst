@@ -150,14 +150,14 @@ Output and Performance
 
 Generated PNG image example
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-.. image:: tiny_5.png
+.. image:: ./output_png/tiny_5.png
    :alt: Sample Solution
 
 *Sample solution for tiny_5.bff showing blocks and laser paths*
 
 Legend
 ~~~~~~
-.. image:: blocks.jpg
+.. image:: ./labels/blocks.jpg
    :alt: Block Types
 
 *Different types of blocks in the solution:*
@@ -166,7 +166,7 @@ Legend
 * Opaque blocks (B): Black
 * Refract blocks (C): Blue-gray with highlight
 
-.. image:: points.jpg
+.. image:: ./labels/points.jpg
    :alt: Point Types
 
 *Different types of points in the solution:*
