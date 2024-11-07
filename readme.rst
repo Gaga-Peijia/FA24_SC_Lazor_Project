@@ -1,5 +1,7 @@
 Lazor Project
 ============
+* A Python-based automated solver for the Lazor puzzle game, designed to find block placements that guide lasers through specified target points.
+*
 * Course: EN.540.635 Software Carpentry
 * Team name: YeP
 * Members: Yue Liu, Peijia Ye
@@ -7,8 +9,6 @@ Lazor Project
 .. contents:: Table of Contents
    :depth: 3
    :local:
-
-A Python-based automated solver for the Lazor puzzle game, designed to find block placements that guide lasers through specified target points.
 
 Game Overview
 ------------
