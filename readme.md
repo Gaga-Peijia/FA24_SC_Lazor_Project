@@ -104,13 +104,13 @@ P 6 3
 ## Usage
 
 1. Place your `.bff` files in the same directory as the code
-2. Add your puzzle files to the `filenames` list in `lazer_final6.py`:
+2. Add your puzzle files to the `filenames` list in `lazer_final.py`:
 ```python
 filenames = ["tiny_5.bff"]
 ```
 3. Run the solver:
 ```bash
-python lazer_final6.py
+python lazer_final.py
 ```
 
 ### Output
