@@ -1,5 +1,8 @@
 Lazor Project
 ============
+Course: EN.540.635 Software Carpentry
+Team name: YeP
+Members: Yue Liu, Peijia Ye
 
 .. contents:: Table of Contents
    :depth: 3
