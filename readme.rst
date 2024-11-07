@@ -122,7 +122,7 @@ Usage
 -----
 
 1. Place your ``.bff`` files in the same directory as the code
-2. Add your puzzle files to the ``filenames`` list in ``lazer_final6.py``:
+2. Add your puzzle files to the ``filenames`` list in ``lazer_final.py``:
 
    .. code-block:: python
 
@@ -132,10 +132,9 @@ Usage
 
    .. code-block:: bash
 
-       python lazer_final6.py
+       python lazer_final.py
 
-Output
-~~~~~~
+Output:
 * Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
 * Execution time displayed for each puzzle
 
