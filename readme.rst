@@ -131,8 +131,8 @@ Usage
        python lazer_final.py
 
 Output:
-1. Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
-2. Execution time displayed for each puzzle
+* 1. Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
+* 2. Execution time displayed for each puzzle
 
 Output and Performance
 --------------------
