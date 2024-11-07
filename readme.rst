@@ -39,13 +39,6 @@ Game Elements
 
 The puzzle is solved when the laser beam(s) pass through all specified **target points** on the grid, using the given number of each type of block.
 
-About This Solver
-~~~~~~~~~~~~~~~
-This program:
-
-* Reads puzzle configurations from .bff files
-* Finds valid block placements automatically
-* Generates visual solutions and output PNG images
 
 Code Structure & Mechanism
 ------------------------
