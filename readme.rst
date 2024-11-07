@@ -131,8 +131,8 @@ Usage
        python lazer_final.py
 
 Output:
-* Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
-* Execution time displayed for each puzzle
+1. Generates PNG files showing solution layout and laser paths, named after its input file (e.g., ``tiny_5.png``)
+2. Execution time displayed for each puzzle
 
 Output and Performance
 --------------------
@@ -165,7 +165,7 @@ Legend
 
 Performance
 ~~~~~~~~~~
-Execution times for sample puzzles::
+Execution times for sample puzzles by macbook pro M1::
 
     yarn_5.bff:         1.70s
     tiny_5.bff:         0.01s
